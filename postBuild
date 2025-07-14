@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/abts4_src")' >> /home/jovyan/.Rprofile
